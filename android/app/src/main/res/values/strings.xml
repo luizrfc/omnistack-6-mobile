@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mobile</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ENABLE_IN_JS</string>
+</resources>
